@@ -1,5 +1,5 @@
-div {
-    display: inline;
+.container {
+    display: flex;
 }
 
 
@@ -9,14 +9,14 @@ div {
 }
 
 .green{
-    color: green;
+    color: red;
 }
 
 .yellow{
-    color: yellow;
+    color: white;
 }
 
 .purple{
-    color: purple;
+    color: green;
 }
 
